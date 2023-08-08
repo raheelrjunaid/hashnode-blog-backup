@@ -1,5 +1,6 @@
 ---
 title: "Fixing Vulnerabilities with Speed"
+seoDescription: "In this article, I walk through how I managed to bump several major, critical, and vulnerable dependencies with speed, resulting in a 234-file pull request."
 datePublished: Tue Aug 08 2023 15:20:26 GMT+0000 (Coordinated Universal Time)
 cuid: cll2g7e8o000209l8hqvo9ydq
 slug: fixing-vulnerabilities-with-speed
