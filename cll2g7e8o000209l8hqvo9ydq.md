@@ -82,7 +82,7 @@ $$10-4=6$$
 
 Each type error was viewed in isolation for analysis on repitition. For each error, I asked: what could easily be substituted/replaced, removed, and reordered? Manual work was reduced in many areas by delegating trivial tasks to scripts.
 
-These scripts were never made by me as actually fixing the type errors was more important than learning and soon forgetting bash (which has happened before). Ratther ChatGPT was used. Here's an example prompt I fed it:
+These scripts were never made by me as actually fixing the type errors was more important than learning and soon forgetting bash (which has happened before). Rather ChatGPT was used. Here's an example prompt I fed it:
 
 ```plaintext
 Create a script in any language that will perform a batch change on all files in the current directory recursively. Handle and report any errors in each step.
