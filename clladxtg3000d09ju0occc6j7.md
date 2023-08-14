@@ -108,6 +108,19 @@ are crucial for sim racing (duh). You either have two displays in your eyes (VR)
     * It's fun looking at the side mirrors instead of pressing `d-pad left` and `d-pad right` to rotate the in-game camera.
         
 
+### Other accessories
+
+1. Handbrake (normally used for drifting)
+    
+2. Wheelbase display (for gauges and whatnot)
+    
+3. Shifter
+    
+4. Handbrake
+    
+5. Bumpers (the cheaper motion rig alternative)
+    
+
 ## Games
 
 This part isn't too important, so long as everything is compatible, you can have a fun time. That being said, some sims are geared toward specific demographics.
@@ -125,23 +138,7 @@ This part isn't too important, so long as everything is compatible, you can have
 
 I've scratched the surface, but you get the idea. I'd lean towards Assetto Corsa as it's pretty established (a fancy way of saying "frickin' old") so it's easy to get started and ask for help where needed. It's also regarded as one of the most realistic simulators.
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">On the r/simracing discord, there are also game-specific channels, which are great for discovering mods and learning about racing as a whole.</div>
-</div>
-
-### Other accessories
-
-1. Handbrake (normally used for drifting)
-    
-2. Wheelbase display (for gauges and whatnot)
-    
-3. Shifter
-    
-4. Handbrake
-    
-5. Bumpers (the cheaper motion rig alternative)
-    
+On the r/simracing discord, there are also game-specific channels, which are great for discovering mods and learning about racing as a whole.
 
 ---
 
