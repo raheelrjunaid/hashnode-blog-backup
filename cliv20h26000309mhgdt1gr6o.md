@@ -8,7 +8,7 @@ tags: software-development, impostor-syndrome, career, self-taught, self-improve
 
 ---
 
-It's also a lot of hard work, pressure, and uncertainty. But sometimes I wonder if I'm biting off more than I can chew or if I should have followed the traditional path of going to college. Before you ask, no, this is not an autobiography; I've written enough of those for my nine college applications. This is, however, my very first blog post (except for the Webflow one, which we can ignore for now).
+It's a lot of hard work, pressure, and uncertainty. But sometimes I wonder if I'm biting off more than I can chew or if I should have followed the traditional path of going to college. Before you ask, no, this is not an autobiography; I've written enough of those for my nine college applications. This is, however, my very first blog post (except for the Webflow one, which we can ignore for now).
 
 ## Imposter Syndrome
 
